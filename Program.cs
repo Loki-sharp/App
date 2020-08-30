@@ -19,8 +19,6 @@ namespace App
 			float res = (Lambda / 2) * KU;// расчет результата в метрах
 			Console.WriteLine("Результат " + res + " метров");
 			Console.ReadKey();
-
-
 		}
 	}
 }
